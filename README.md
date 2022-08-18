@@ -45,19 +45,9 @@ The above metrics were grouped under two categories
 ## FINAL RESULT
 
         •	Initial Dashboard
-
-
-
-
-
-        •	Updated Dashboard
-
-
-
-
-
-        
+          ![Initial Dashboard](./Demo_Images/initial_dashboard.PNG)
         •	Interactive dashboard
+          ![Interactive Dashboard](./Demo_Images/filtering_dashboad.PNG)
 
  
     
