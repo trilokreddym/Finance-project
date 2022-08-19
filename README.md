@@ -45,9 +45,9 @@ The above metrics were grouped under two categories
 ## FINAL RESULT
 
         •	Initial Dashboard
-          ![Initial Dashboard](./Demo_Images/initial_dashboard.PNG)
+          <img src="https://github.com/trilokreddym/Finance-project/blob/main/Demo_Images/initial_dashboard.PNG" class = "center">
         •	Interactive dashboard
-          ![Interactive Dashboard](./Demo_Images/filtering_dashboad.PNG)
+          <img src="https://github.com/trilokreddym/Finance-project/blob/main/Demo_Images/filtering_dashboad.PNG" class = "center">
 
  
     
